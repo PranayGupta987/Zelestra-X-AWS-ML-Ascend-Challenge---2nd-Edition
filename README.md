@@ -1,5 +1,5 @@
 # 🔋 Predictive Solar Panel Optimization using Machine Learning  
-**Zelestra X AWS ML Ascend Challenge – 2nd Edition (Rank #62/1016)**  
+**Zelestra X AWS ML Ascend Challenge – 2nd Edition (Rank #63/1016)**  
 Team **Beta**: Pranay, Ayush, Animesh
 
 ---
