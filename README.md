@@ -6,7 +6,7 @@ Team **Beta**: Pranay, Ayush, Animesh
 
 ## 🚀 Project Overview
 
-This project tackles the critical issue of **predicting performance degradation and failures in solar panels** using real-time and historical sensor data. It was developed as part of the **Zelestra X AWS ML Ascend Challenge**, where our team ranked **Top 6% (62/1016 teams)**.
+This project tackles the critical issue of **predicting performance degradation and failures in solar panels** using real-time and historical sensor data. It was developed as part of the **Zelestra X AWS ML Ascend Challenge**, where our team ranked **Top 6% (63/1016 teams)**.
 
 > 🔍 Objective: Enable predictive maintenance and maximize solar energy output using a robust ML pipeline.
 
